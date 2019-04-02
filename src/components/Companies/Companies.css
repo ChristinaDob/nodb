@@ -1,0 +1,33 @@
+.companieswrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: space-around;
+  margin-top: 100px;
+}
+
+.loreal {
+  height: 200px;
+  width: auto;
+  padding-top: 30px;
+  margin-left: 70px;
+}
+
+.revlon {
+  height: 200px;
+  width: auto;
+  margin-left: 40px;
+  padding-bottom: 50px;
+}
+
+.compRevlon {
+  font-size: 25px;
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+.compLoreal {
+  font-size: 25px;
+  margin-left: 50px;
+  font-weight: bold;
+}

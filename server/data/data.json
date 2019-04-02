@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "id": 0,
+      "color": "FF94A7",
+      "name": "Hot Pink",
+      "img_path": "http://christinadob.com/todo/media/FF94A7.png",
+      "company": "Revlon"
+    },
+    {
+      "id": 1,
+      "color": "955C69",
+      "name": "Pale Pink",
+      "img_path": "http://christinadob.com/todo/media/955C69.png",
+      "company": "Revlon"
+    },
+    {
+      "id": 2,
+      "color": "B12156",
+      "name": "Go GO Pink",
+      "img_path": "http://christinadob.com/todo/media/B12156.png",
+      "company": "Revlon"
+    },
+    {
+      "id": 3,
+      "color": "B7233B",
+      "name": "Sunset",
+      "img_path": "http://christinadob.com/todo/media/B7233B.png",
+      "company": "Revlon"
+    },
+    {
+      "id": 4,
+      "color": "542A71",
+      "name": "Purple Passion",
+      "img_path": "http://christinadob.com/todo/media/542A71.png",
+      "company": "Revlon"
+    },
+    {
+      "id": 5,
+      "color": "FF244B",
+      "name": "Spicy",
+      "img_path": "http://christinadob.com/todo/media/FF244B.png",
+      "company": "Revlon"
+    },
+    {
+      "id": 6,
+      "color": "C37685",
+      "name": "Pale Ice",
+      "img_path": "http://christinadob.com/todo/media/C37685.png",
+      "company": "Loreal"
+    },
+    {
+      "id": 7,
+      "color": "761214",
+      "name": "Deep Red",
+      "img_path": "http://christinadob.com/todo/media/761214.png",
+      "company": "Loreal"
+    },
+    {
+      "id": 8,
+      "color": "AB0C19",
+      "name": "Bright Red",
+      "img_path": "http://christinadob.com/todo/media/AB0C19.png",
+      "company": "Loreal"
+    },
+    {
+      "id": 9,
+      "color": "864058",
+      "name": "Mica",
+      "img_path": "http://christinadob.com/todo/media/864058.png",
+      "company": "Loreal"
+    },
+    {
+      "id": 10,
+      "color": "BF7061",
+      "name": "Salmon",
+      "img_path": "http://christinadob.com/todo/media/BF7061.png",
+      "company": "Loreal"
+    },
+    {
+      "id": 11,
+      "color": "E53134",
+      "name": "Orange Frost",
+      "img_path": "http://christinadob.com/todo/media/E53134.png",
+      "company": "Loreal"
+    }
+  ]
+}
